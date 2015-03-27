@@ -1,5 +1,5 @@
 ## Format of result
-<CHARACTER> <TIMES>
+`<CHARACTER> <TIMES>`
 
 ## Results
 
