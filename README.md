@@ -1,5 +1,8 @@
+## How to play
+Read names.txt, count the number of first letter of each line from a to z respectively, and display statistical summary.
+
 ## Format of result
-`<CHARACTER> <TIMES>`
+`<LETTER> <TIMES>`
 
 ## Results
 
@@ -31,3 +34,6 @@ X 4032
 Y 24696
 Z 17640
 ```
+
+# Speed
+* scheme-guile/b4283.scm 7.89s
