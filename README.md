@@ -36,4 +36,6 @@ Z 17640
 ```
 
 # Speed
+* c/b4283.scm 0.01s
 * scheme-guile/b4283.scm 7.89s
+
